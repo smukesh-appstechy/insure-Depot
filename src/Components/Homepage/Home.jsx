@@ -156,13 +156,13 @@ function HowItWork({index,heading,para, uniqueIdentifer}){
 function Insurefunction({index, indexColor, para, cardImage}){
   return(
         <div className="insure-card flex gap-10 justify-center">
-      <div className={`step w-[130px] h-[130px] rounded-full border-[15px] ${indexColor === "#F49D1D" ? "border-[#F49D1D]" : indexColor === "#F26622" ? "border-[#F26622]" : indexColor === "#D35628" ? "border-[#D35628]" : indexColor === "#E77E24" ? "border-[#E77E24]" : ""} flex justify-center items-center`}>
-      <span className='text-[44px]  font-medium'>{index}</span>
+      <div className={`step lg:w-[130px] md:w-[100px] w-[80px] lg:h-[130px] md:h-[100px] h-[80px] rounded-full lg:border-[15px] md:border-[10px] border-[6px] ${indexColor === "#F49D1D" ? "border-[#F49D1D]" : indexColor === "#F26622" ? "border-[#F26622]" : indexColor === "#D35628" ? "border-[#D35628]" : indexColor === "#E77E24" ? "border-[#E77E24]" : ""} flex justify-center items-center`}>
+      <span className='lg:text-[44px] md:text-[30px] text-2xl   font-medium'>{index}</span>
       </div>
       <div  className="step-text relative">
-        <img className='w-[316px] h-full' src={cardImage} alt="" />
-        <div className='absolute top-0 left-0 right-0 bottom-0 m-auto w-52 flex items-center'>
-        <p className=''>{para}</p>
+        <img className='lg:w-[316px] md:w-[250px] w-[200px] h-full' src={cardImage} alt="" />
+        <div className='absolute top-0 left-0 right-0 bottom-0 m-auto lg:w-52 md:w-48 w-40 ml-8 flex items-center'>
+        <p className='lg:text-lg md:text-base text-sm'>{para}</p>
         </div>
       
       </div>
