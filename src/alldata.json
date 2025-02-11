@@ -1,0 +1,257 @@
+{
+    "page":{
+        "homepage":{
+            "herosection":{
+                "heading":{
+                    "value":"You Can't Predict the Future, But You Can Prepare For It"
+                },
+                "para":{
+                    "value":"Our mission is to provide you with peace of mind, knowing that no matter what happens, your loved ones are protected. Explore our diverse range of coverage options and discover how easy it is to safeguard what truly matters. Start your journey to a secure tomorrow with us today."
+                }
+            },
+            "howItWork":{
+                "headingSection":{
+                    "heading":{
+                        "value":"How It Works"
+                    },
+                    "para":{
+                        "value":"The process of buying a life insurance policy can be broken down into three simple steps: "
+                    }
+                },
+                "cardData":[
+                    {
+                    "card":{
+                        "index":{
+                            "value":1
+                        },
+                        "heading":{
+                            "value":"Get a Quote "
+                        },
+                        "para":{
+                            "value":"Submit some essential details to receive an approximate premium amount and options for coverage."
+                        }
+                    }
+                },
+                {
+                    "card":{
+                        "index":{
+                            "value":2
+                        },
+                        "heading":{
+                            "value":"Apply "
+                        },
+                        "para":{
+                            "value":"If you are happy with your quote, go on applying for coverage. Fill out the online application form with more extensive information."
+                        }
+                    }
+                },
+                {
+                    "card":{
+                        "index":{
+                            "value":3
+                        },
+                        "heading":{
+                            "value":"Get Covered "
+                        },
+                        "para":{
+                            "value":"If you are happy with the terms, you can accept the offer by signing the policy documents and paying the first premium."
+                        }
+                    }
+                }
+
+                ]
+            },
+            "insurance":{
+                "headingSection":{
+                    "heading":{
+                        "value":"Some facts about life insurance"
+                    }
+                },
+                "insuranceCards":[
+                    {
+                        "card":{
+                            "indexColor":{
+                                "value":"#D35628"
+                            },
+                            "index":{
+                                "value":1
+                            },
+                            "cardImage":{
+                                "value":"/home/insure4.png"
+                            },
+                            "para":{
+                                "value":"Coverage that fills income gaps during tough times. "
+                            }
+                        }
+                    },
+                    {
+                        "card":{
+                            "indexColor":{
+                                "value":"#E77E24"
+                            },
+                            "index":{
+                                "value":2
+                            },
+                            "cardImage":{
+                                "value":"/home/insure3.png"
+                            },
+                            "para":{
+                                "value":"Protection tailored to your life stage."
+                            }
+                        }
+                    },
+                    {
+                        "card":{
+                            "indexColor":{
+                                "value":"#F49D1D"
+                            },
+                            "index":{
+                                "value":3
+                            },
+                            "cardImage":{
+                                "value":"/home/insure1.png"
+                            },
+                            "para":{
+                                "value":"Life insurance to secure your family's lifestyle. "
+                            }
+                        }
+                    },
+                    {
+                        "card":{
+                            "indexColor":{
+                                "value":"#F26622"
+                            },
+                            "index":{
+                                "value":4
+                            },
+                            "cardImage":{
+                                "value":"/home/insure2.png"
+                            },
+                            "para":{ 
+                                "value":"Customized coverage to keep your finances intact.  "
+                            }
+                        }
+                    }
+                    
+                ]
+            },
+            "whyChooseUs":[
+                {
+                    "card":{
+                        "image":{
+                            "value":"/home/doller.png"
+                        },
+                        "para":{
+                            "value":"Competitive Prices"
+                        }
+                    }
+                },
+                {
+                    "card":{
+                        "image":{
+                            "value":"/home/24&7.png"
+                        },
+                        "para":{
+                            "value":"24/7 Support"
+                        }
+                    }
+                },
+                {
+                    "card":{
+                        "image":{
+                            "value":"/home/customize.png"
+                        },
+                        "para":{
+                            "value":"Customizable Coverage"
+                        }
+                    }
+                },
+                {
+                    "card":{
+                        "image":{
+                            "value":"/home/application.png"
+                        },
+                        "para":{
+                            "value":"Online Application"
+                        }
+                    }
+                }
+            ],
+            "ourService":{
+                "serviceHeading":{
+                    "value":"Our Services "
+                },
+                "serviceCard":[
+                    {
+                        "card":{
+                            "logo":{
+                                "value":"/home/service-section/Term-Life.png"
+                            },
+                            "heading":{
+                                "value":"Term Life Insurance"
+                            },
+                            "para":{
+                                "value":"Ensure your family's financial stability with our Term Life Insurance. This affordable and straightforward policy provides coverage for a specified term, paying a death benefit if you pass away during this period. Choose the coverage period that fits your life, and enjoy the peace of mind knowing your loved ones are protected."
+                            },
+                            "image":{
+                                "value":"/home/service-section/left-amb.png"
+                            }
+                            
+                        }
+                    },
+                    {
+                        "card":{
+                            "logo":{
+                                "value":"/home/service-section/Short-Term.png"
+                            },
+                            "heading":{
+                                "value":"Term Life Insurance"
+                            },
+                            "para":{
+                                "value":"Ensure your family's financial stability with our Term Life Insurance. This affordable and straightforward policy provides coverage for a specified term, paying a death benefit if you pass away during this period. Choose the coverage period that fits your life, and enjoy the peace of mind knowing your loved ones are protected."
+                            },
+                            "image":{
+                                "value":"/home/service-section/top-amb.png"
+                            }
+                            
+                        }
+                    }
+                ]
+            },
+            "blog":{
+                "blogSectionTitle":{
+                    "value":"Our Recent Articles"
+                },
+                "blogData":[
+                    {
+                        "id":{
+                            "value":1
+                        },
+                        "featureImage":{
+                            "value":"/blog.png"
+                        },
+                        "lastUpdatedDate":{
+                            "value":"Oct 28, 2022"
+                        },
+                        
+                        "blogTitle":{
+                            "value":"Lorem ipsumdolor sit amet."
+                        },
+                        "blogShortDis":{
+                            "value":"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.  Amet minim mollit non deserunt"
+                        },
+                        "blogCategory":{
+                            "value":"Income Protection"
+                        },
+                        "readTime":{
+                            "value":"5 minute read"
+                        },
+                        "blogText":{
+                            "value":"<h2>How does income protection insurance work?</h2><p>Income protection insurance:<ul><li>Provides regular payments that replace part of your income if you're unable to work due to illness or an accident.<li>Pays out until you can start working again – or until you retire, die or reach the end of the policy term – whichever is sooner.<li>Typically pays out between 50% and 65% of your income if you’re unable to work.<li>Covers most illnesses that leave you unable to work – either in the short or long term.<li>Can be claimed as many times as needed while the policy lasts.</ul><p>There’s often a pre-agreed waiting (‘deferred’) period before the payments start. The most common waiting periods are 4, 13, 26 weeks and a year. The longer you wait, the lower the monthly premiums.<p>It’s not the same as critical illness insurance, which pays out a one-off lump sum if you have a specific serious illness.<h2>How does income protection insurance work?</h2><p>When we're unable to work due to illness or an accident, you might assume that your employer will continue to give you some level of income.<p>In reality, however, employees are usually moved onto Statutory Sick Pay within six months. Very few employers support their staff for more than a year if they’re off sick from work.<p>Depending on the level of savings you have, the loss of an income can soon leave you unable to pay essential household bills, such as mortgage/rent and utilities.<p>It can be particularly difficult if you’re self-employed and so have no sick pay to fall back on.<h2>How do I buy income protection insurance?</h2><p>Premiums can vary and different insurers can use very different criteria. So it’s worth shopping around and doing a bit of research.<p>The best way to make sure you get what you need is to get advice from an independent financial advisor or specialist broker. They can take you through the details of the various policies available and make sure you choose the right one.<p>There are also specialist brokers and insurers for people who have been declined insurance. This might be perhaps because of a medical condition or because they do a job that isn’t covered by standard policies."
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
