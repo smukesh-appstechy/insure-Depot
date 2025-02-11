@@ -27,7 +27,7 @@ const openNav = () =>{
 
   return (
     <>
-    <header className='flex shadow-md py-4 px-4 sm:px-10 bg-white font-[sans-serif] min-h-[70px] tracking-wide relative z-50'>
+    <header className='sticky z-50 top-0 flex shadow-md py-4 px-4 sm:px-10 bg-white font-[sans-serif] min-h-[70px] tracking-wide '>
       <div className='flex flex-wrap items-center justify-between lg:gap-5 gap-2 w-full'>
        
         <Link to="/" className="flex items-center">
